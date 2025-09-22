@@ -1,0 +1,8 @@
+
+## Usage
+
+- See `loader.py`, `vector_store.py`, and `rag_chain.py` for detailed usage.
+- You need an OpenAI API key exported as the environment variable `OPENAI_API_KEY`.
+
+## Running Streamlit app
+

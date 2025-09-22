@@ -1,0 +1,7 @@
+book-discovery-assistant/
+│
+├── loader.py
+├── vector_store.py
+├── rag_chain.py
+├── requirements.txt
+├── README.md
